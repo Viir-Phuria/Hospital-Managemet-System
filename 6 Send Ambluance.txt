@@ -1,0 +1,7 @@
+6 Send Ambluance
+
+ENTERY MENU
+		Enter Address where ambulance is to be sent: Evershine
+		Enter Pincode where ambulance is to be sent: 400064
+		Enter Phone number to contact: 9819185865
+		Ambulance is sent

@@ -1,0 +1,31 @@
+1 ADMIN
+
+	DOCTOR
+		 01. INSERT DOCTOR DATA
+        	 02. Search DOCTOR
+	       03. ALL DOCTOR
+        	 04. MODIFY DOCTOR DATA
+             05. Return to Home Page............
+
+
+	NURSE
+		01. INSERT NURSE DATA
+        	02. Search NURSE
+        	03. ALL NURSE
+        	04. MODIFY NURSE DATA
+        	05. Return to Home Page..........
+
+
+	RECEPTIONIST
+			 01. INSERT Receptionist DATA
+        		 02. Search Receptionist
+        		 03. ALL Receptionist
+        	 	 04. MODIFY Receptionist DATA
+        		 05. Return to Home Page..........
+
+
+	STORE MANAGER
+ 			  01. INSERT STORE MANAGER DATA
+        		  02. Search STORE MANAGER
+        		  03. ALL STORE MANAGER
+        		  04. Return to Home Page this menu

@@ -1,0 +1,14 @@
+5 PHARMACY
+
+ENTERY MENU
+                           Pharmacy Management System
+                ==================================================
+
+                --------------------------------------------------
+                ||      1. Take new Medicine order               ||
+                ||      2. Cancel latest Medicine order          ||
+                ||      3. Modify Order List                     ||
+                ||      4. Print the Reciept and Make Payment    ||
+                ||      5. Daily Summary of total Sale           ||
+                ||      6. Return to Home Page                   ||
+                --------------------------------------------------

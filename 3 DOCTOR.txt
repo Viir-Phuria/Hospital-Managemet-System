@@ -1,0 +1,6 @@
+3 DOCTOR 
+
+ENTRY MENU
+	  01. Prescribe Medicine for patient
+        02. Search DOCTOR
+        03. Return to Home Page.....

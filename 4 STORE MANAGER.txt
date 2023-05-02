@@ -1,0 +1,6 @@
+4 STORE MANAGER
+
+ENTERY MENU
+		01. Order Products
+        	02. Show Order Products & Bills
+        	03. Return to Home Page.....
